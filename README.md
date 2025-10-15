@@ -1,4 +1,4 @@
-# DevOps CLI Toolkits (Python)
+# DevOps CLI Toolkits
 
 Набір мінімальних CLI-інструментів, що демонструє:
 - базовий запуск сценарію та `sys.argv`
