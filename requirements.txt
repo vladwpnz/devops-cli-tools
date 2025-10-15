@@ -1,0 +1,4 @@
+click==8.3.0
+colorama==0.4.6
+fire==0.7.1
+termcolor==3.1.0
