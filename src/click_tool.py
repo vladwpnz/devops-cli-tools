@@ -1,4 +1,3 @@
-# src/click_tool.py
 import click
 
 @click.group(help="Набір невеликих CLI-команд на Click.")

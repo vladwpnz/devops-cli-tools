@@ -1,4 +1,3 @@
-# src/sys_tool.py
 import sys
 
 HELP_TEXT = """Використання:

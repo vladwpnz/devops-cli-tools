@@ -1,4 +1,3 @@
-# src/utils.py
 def greet(name: str) -> str:
     """Повертає рядок привітання."""
     return f"Привіт, {name}!"

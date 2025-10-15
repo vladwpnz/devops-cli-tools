@@ -1,4 +1,3 @@
-# src/fire_expose.py
 import fire
 import utils
 
